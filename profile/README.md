@@ -8,4 +8,4 @@ Welcome to OpenTempus, the open source technology used by Agrolly.
 
 Learn more about the project;
 
-- [OpenTempus](https://github.com/OpenTempus/OpenTempus#opentempus)
+- [OpenTempus](https://www.opentempus.com/)
