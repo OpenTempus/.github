@@ -6,6 +6,6 @@ Welcome to OpenTempus, the open source technology used by Agrolly.
 
 [Agrolly LLC](https://agrolly-web.mybluemix.net/) created its solution as a [Call for Code submission](https://developer.ibm.com/callforcode/solutions/agrolly/) that won the top prize in the Global Challenge. In 2022, **_OpenTempus_** was contributed to the Linux Foundation as the open source core of Agrolly in order share the technology and provide a way for others to improve it for the benefit of all.
 
-Learn more about the project;
+Learn more about the project:
 
 - [OpenTempus](https://www.opentempus.com/)
